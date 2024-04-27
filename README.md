@@ -1,3 +1,3 @@
 # OlshanskyBot GPT
 
-[chat.openai.com/g/g-VL4KDXHxC-olshanskybot](https://chat.openai.com/g/g-VL4KDXHxC-olshanskybot)
+See [prompt](./prompt.txt) for the prompt for [OlshanskyBot GPT](https://chat.openai.com/g/g-VL4KDXHxC-olshanskybot).
